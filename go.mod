@@ -1,3 +1,3 @@
-module github.com/divijsehgal25/go-ds
+module github.com/divij2599/go-ds
 
 go 1.26
