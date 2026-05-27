@@ -1,2 +1,27 @@
 # go-ds
-Common data structures implemented in Go
+
+`go-ds` is a Go library containing beginner-friendly implementations of common data structures.
+
+This project is created for learning how data structures work internally in Go.
+
+## Data Structures
+
+Currently available:
+
+- Hash Table
+
+Planned:
+
+- Stack
+- Queue
+- Linked List
+- Doubly Linked List
+- Binary Tree
+- Binary Search Tree
+- Heap
+- Graph
+
+## Installation
+
+```bash
+go get github.com/divij2599/go-ds
