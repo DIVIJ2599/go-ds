@@ -9,16 +9,17 @@ This project is created for learning how data structures work internally in Go.
 Currently available:
 
 - Hash Table
+- Stack
+- Queue
 
 Planned:
 
-- Stack
-- Queue
 - Linked List
 - Doubly Linked List
 - Binary Tree
 - Binary Search Tree
 - Heap
+- Trie
 - Graph
 
 ## Installation
