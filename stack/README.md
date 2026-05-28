@@ -27,4 +27,4 @@ This means the last element added to the stack is the first one removed.
 ## Installation
 
 ```bash
-go get github.com/divijsehgal25/go-ds
+go get github.com/divij2599/go-ds
